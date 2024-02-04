@@ -1,4 +1,6 @@
-# Android device tree for samsung SM-F721B (b4q)
+# Android device tree for Samsung Galaxy Z Flip 4 (b4q)
+
+Kernel source for prebuilt kernel [HERE](https://github.com/rainbowdashh/android_kernel_samsung_SM8475_b4q)
 
 ```
 #
